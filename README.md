@@ -1,2 +1,2 @@
-# MyAnimation
+# my-animation
 Totoro walking
